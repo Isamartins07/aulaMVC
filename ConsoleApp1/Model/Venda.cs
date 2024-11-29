@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 //model representa uma entidade = tabela,
 //model reprenta todas as informações para representar as tabelas 
-//informações que serão manipuladas
+//informações que serão manipuladas //
 
 namespace ConsoleApp1.Model
 {
@@ -18,22 +18,20 @@ namespace ConsoleApp1.Model
     public partial class Venda
     {
         public int Id { get; set; }
+
         [Column("Produto")]
         public string Produto { get; set; }
+        
         [Required]
-
-
         [Column("Descricao")]
         public string Descricao{ get; set; }
+        
         [Required]
-
         [Column("DataVenda")]
         public DateTime DataVenda { get; set; }
+        
         [Required]
-
         [Column("ValorProduto")]
         public decimal ValorProduto { get; set; }
-
-
     }
 }

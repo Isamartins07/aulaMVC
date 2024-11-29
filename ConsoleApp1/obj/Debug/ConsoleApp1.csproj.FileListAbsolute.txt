@@ -1,0 +1,12 @@
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\isabelle.smartins3.SENACEDU\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller\VendaController.cs" />
+    <Compile Include="Data\Context.cs" />
     <Compile Include="Model\Venda.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
